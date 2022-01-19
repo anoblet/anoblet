@@ -1,7 +1,3 @@
-### Hi there 👋
-
-## About me
-
 Talented and civic minded engineer looking to work on projects that help the community as a whole, expecially interactions between citizens and their government!
 
 <!--
