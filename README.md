@@ -1,6 +1,6 @@
 👋
 
-Talented and civic minded engineer looking to work on projects that help the community as a whole, expecially interactions between citizens and their government!
+Talented and civic minded engineer looking to work on projects that help the community as a whole, especially interactions between citizens and their government!
 
 <!--
 **anoblet/anoblet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
